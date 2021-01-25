@@ -6,7 +6,7 @@ Markdown is a lightweight markup language. It is a way to focus on the content. 
 ### On github, you can use Markdown in most places
 Note: I got this from [link](https://guides.github.com/features/mastering-markdown/)
 - Gists
-- Comments and pull requests
+- Comments of issues and pull requests
 - Files with the .md or .markdown extension
 - You can also reference people. Just use the @ symbol and you can tag them.
 
@@ -34,16 +34,23 @@ You can also add images and links.
 ![Cute Kitten](https://images.unsplash.com/photo-1560114928-40f1f1eb26a0?ixlib=rb-1.2.1&ixid=MXwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHw%3D&auto=format&fit=crop&w=1650&q=80)
 Photo by [Andriyko Podilnyk](https://unsplash.com/@yirage?utm_source=unsplash&amp;utm_medium=referral&amp;utm_content=creditCopyText) from [Unsplash](https://unsplash.com/s/photos/cute-kitten?utm_source=unsplash&amp;utm_medium=referral&amp;utm_content=creditCopyText)
 
-## Blockquotes
+### Blockquotes
 You can quote people like so
 Albert Einstein once said:
 > I have no special talent.
 > I am only passionately curious.
 
-## Inline code
-You can also use inline code which would be great for comments. Example is from [here](https://guides.github.com/features/mastering-markdown/)
-"I think you should use an '<addr>' element here instead.
-  
+## Github Flavored Markdown
+Github has it's own version of Markdown syntax. This is so it's easier to work with content on the GitHub.com website. Not all features are as readily available. Some only work in descriptions and comments of Issues and Pull Requests.
+
+You can highlight certain things with the following code:
+  ```javascript
+function fancyAlert(arg) {
+  if(arg) {
+    $.facebox({div:'#foo'})
+  }
+}
+```
   
 
 
