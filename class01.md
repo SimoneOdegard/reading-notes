@@ -4,7 +4,7 @@
 Markdown is a lightweight markup language. It is a way to focus on the content. It uses textual symbols to change the formatting and look of the document. You can **bold** or *italicize* text. You can also create bulleted or numbered lists.
 
 ### Headers
-Headers are created with the pound sign. Each additional symbol corresponds with heading size. One pound sign would be the same as <h1> while three pound signs would be the same as <h3>.
+Headers are created with the pound sign. Each additional symbol corresponds with heading size. One pound sign would be the same as h1 while three pound signs would be the same as h3.
 
 ### Bulleted list
 - Point 1
