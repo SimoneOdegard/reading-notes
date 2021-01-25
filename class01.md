@@ -1,7 +1,7 @@
 # This is where you will take your notes on the reading material.
 
 ## What is Markdown?
-Markdown is a lightweight markup language. It is a way to focus on the content. It uses textual symbols to change the formatting and look of the document. You can **bold** or *italicize* text. You can also create bulleted or numbered lists.
+Markdown is a lightweight markup language. It is a way to focus on the content. It uses textual symbols to change the formatting and look of the document. You can **bold**, *italicize*, or (~~strikethrough~~) text. You can also create bulleted or numbered lists.
 
 ### On github, you can use Markdown in most places
 Note: I got this from [link](https://guides.github.com/features/mastering-markdown/)
@@ -30,7 +30,7 @@ Headers are created with the pound sign. Each additional symbol corresponds with
 - [ ] This is task waiting to be completed
 
 ### Images and Links
-You can also add images and links.
+You can also add images and links. Note: any URL will turn into a clickable link automatically.
 ![Cute Kitten](https://images.unsplash.com/photo-1560114928-40f1f1eb26a0?ixlib=rb-1.2.1&ixid=MXwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHw%3D&auto=format&fit=crop&w=1650&q=80)
 Photo by [Andriyko Podilnyk](https://unsplash.com/@yirage?utm_source=unsplash&amp;utm_medium=referral&amp;utm_content=creditCopyText) from [Unsplash](https://unsplash.com/s/photos/cute-kitten?utm_source=unsplash&amp;utm_medium=referral&amp;utm_content=creditCopyText)
 
@@ -54,6 +54,15 @@ Title Cell 1 | Title Cell 2
 Cell 1 | Cell 2
 Under cell 1 | Under cell 2
 
+### Sha references
+Any reference to a commit’s SHA-1 hash will be automatically converted into a link to that commit on GitHub.
+[Source](https://docs.github.com/en/github/writing-on-github/basic-writing-and-formatting-syntax)
+
+### Issue references within a respository
+Any number that refers to an Issue or Pull Request will be automatically covereted into a link. [Source](https://docs.github.com/en/github/writing-on-github/basic-writing-and-formatting-syntax)
+
+### Emojis
+Emojis are also available on GitHub! Here is a link to every image that GitHub supports.[Emoji List](https://github.com/ikatyang/emoji-cheat-sheet/blob/master/README.md)
 
 
 
