@@ -11,8 +11,8 @@ Simone Odegard
 
 ### Ordered List
 1. Item 1
-2. Item 2
-3. Item 3
+1. Item 2
+1. Item 3
 
 You can use the [editor on GitHub](https://github.com/SimoneOdegard/reading-notes/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
 
