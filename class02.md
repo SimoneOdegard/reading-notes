@@ -15,6 +15,23 @@ A text editor is a piece of software that let's you write text. You can change h
 [source](https://codefellows.github.io/code-102-guide/curriculum/class-02/Choosing-A-Text-Editor--The-Older-Coder.pdf)
 
 ### Using Software That Comes With Your Computer
+Computers come with a text editor already on them. However, these editors don't have as many features. They are the bare minimum and very simple. When using a default text editor, remember to code in plain text. You will also want to stay organized by creating a folder specifically for your website. Don't forget to name your files with the correct extension. This is very important. Your HTML file should be called "index.html".
+
+### Third-Party Options
+1. NotePad++
+1. TextWrangler/BB Edit (Mac only)
+1. Visual Studio Code
+1. Atom
+1. Brackets
+1. Sublime Text
+
+### IDEs
+An IDE (Integrated Development Environment) is a suite of multiple software. IDE is a text editor, file manager, compiler, and debugger in one software. IDE is similar to Microsoft Outlook as Outlook does multiple things in one software program. [source](https://codefellows.github.io/code-102-guide/curriculum/class-02/Choosing-A-Text-Editor--The-Older-Coder.pdf)
+
+### Overview
+It's important to look at your needs and what will work best for you. If you want to keep things simple and the barebones, maybe using the default text editor that came with your computer would be best. However, it seems like you would find that a third-party option would be better. You will have more freedom in customization, extensions, and even code completion. You should do what would make your work easier for you.
+
+
 
 
 
