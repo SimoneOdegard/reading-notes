@@ -1,9 +1,3 @@
-# reading-notes
-This is my repo for codefellows reading notes.
-
-## Author
-Simone Odegard
-
 ### Growth Mindset
 Growth Mindset is believing you can continue **growing** and **learning**. It doesn't require talent alone. Talent is just a starting point.
 
