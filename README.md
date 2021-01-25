@@ -8,3 +8,6 @@ Growth Mindset is believing you can continue **growing** and **learning**. It do
 
 ![Hang in there](https://miro.medium.com/max/1162/1*Zhoud0k2og_RhM34wqFy8w.png)
 [Source](https://medium.com/@joegerlitz/whatever-happened-to-the-hang-in-there-kitten-230623ed6121)
+
+### About me
+My name is Simone Odegard. I am 31 years old. I graduated from the University of Washington in 2012 with a degree in Interdisciplinary Arts and Sciences. I have been teaching and coaching a competitive dance team for 6 years. Previous to that I worked in sales and service as well as apartment management. I look forward to what this class will teach me.
