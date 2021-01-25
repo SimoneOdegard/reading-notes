@@ -1,4 +1,13 @@
-## Welcome to GitHub Pages
+# reading-notes
+This is my repo for codefellows reading notes.
+
+## Author
+Simone Odegard
+
+### Growth Mindset
+- Item 1
+- Item 2
+- Item 3
 
 You can use the [editor on GitHub](https://github.com/SimoneOdegard/reading-notes/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
 
