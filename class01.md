@@ -1,7 +1,7 @@
 # This is where you will take your notes on the reading material.
 
 ## What is Markdown?
-Markdown is a lightweight markup language. It is a way to focus on the content. It uses textual symbols to change the formatting and look of the document. You can **bold**, *italicize*, or (~~strikethrough~~) text. You can also create bulleted or numbered lists.
+Markdown is a lightweight markup language. It is a way to focus on the content. It uses textual symbols to change the formatting and look of the document. You can **bold**, *italicize*, or ~~strikethrough~~ text. You can also create bulleted or numbered lists.
 
 ### On github, you can use Markdown in most places
 Note: I got this from [link](https://guides.github.com/features/mastering-markdown/)
@@ -58,8 +58,8 @@ Under cell 1 | Under cell 2
 Any reference to a commit’s SHA-1 hash will be automatically converted into a link to that commit on GitHub.
 [Source](https://docs.github.com/en/github/writing-on-github/basic-writing-and-formatting-syntax)
 
-### Issue references within a respository
-Any number that refers to an Issue or Pull Request will be automatically covereted into a link. [Source](https://docs.github.com/en/github/writing-on-github/basic-writing-and-formatting-syntax)
+### Issue references within a repository
+Any number that refers to an Issue or Pull Request will be automatically converted into a link. [Source](https://docs.github.com/en/github/writing-on-github/basic-writing-and-formatting-syntax)
 
 ### Emojis
 Emojis are also available on GitHub! Here is a link to every image that GitHub supports.[Emoji List](https://github.com/ikatyang/emoji-cheat-sheet/blob/master/README.md)
