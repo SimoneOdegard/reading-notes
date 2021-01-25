@@ -18,10 +18,11 @@ Markdown is a lightweight markup language. It is a way to focus on the content. 
 - [ ] This is task waiting to be completed
 
 ### On github, you can use Markdown in most places
+Note: I got this from [link](https://guides.github.com/features/mastering-markdown/)
 - Gists
 - Comments and pull requests
 - Files with the .md or .markdown extension
 
-Note: I got this from [link](https://guides.github.com/features/mastering-markdown/)
+
 
 
