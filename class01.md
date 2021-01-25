@@ -44,13 +44,11 @@ Albert Einstein once said:
 Github has it's own version of Markdown syntax. This is so it's easier to work with content on the GitHub.com website. Not all features are as readily available. Some only work in descriptions and comments of Issues and Pull Requests.
 
 You can highlight certain things with the following code:
-  ```javascript
-function fancyAlert(arg) {
-  if(arg) {
-    $.facebox({div:'#foo'})
-  }
-}
-```
+    function fancyAlert(arg) {
+      if(arg) {
+        $.facebox({div:'#foo'})
+      }
+    }
   
 
 
