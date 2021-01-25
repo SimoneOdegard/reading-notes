@@ -43,13 +43,17 @@ Albert Einstein once said:
 ## Github Flavored Markdown
 Github has it's own version of Markdown syntax. This is so it's easier to work with content on the GitHub.com website. Not all features are as readily available. Some only work in descriptions and comments of Issues and Pull Requests.
 
-You can highlight certain things with the following code:
-    function fancyAlert(arg) {
-      if(arg) {
-        $.facebox({div:'#foo'})
-      }
-    }
-  
+### Syntax highlighting
+You can use syntax highlighting using the GitHub Flavored Markdown
+[more details can be found here](https://docs.github.com/en/github/writing-on-github/basic-writing-and-formatting-syntax)
+
+### Tables
+Tables can be created while using hyphens and pipes.
+Title Cell 1 | Title Cell 2
+-------------|--------------
+Cell 1 | Cell 2
+Under cell 1 | Under cell 2
+
 
 
 
