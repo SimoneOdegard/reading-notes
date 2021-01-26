@@ -32,8 +32,23 @@ An IDE (Integrated Development Environment) is a suite of multiple software. IDE
 It's important to look at your needs and what will work best for you. If you want to keep things simple and the barebones, maybe using the default text editor that came with your computer would be best. However, it seems like you would find that a third-party option would be better. You will have more freedom in customization, extensions, and even code completion. You should do what would make your work easier for you.
 
 
+## The Command Line
+**user@bash: ls -l /home/ryan**
+- A command line or terminal = a text based interface to the system. [source](https://ryanstutorials.net/linuxtutorial/commandline.php)
+- Command will always be entered first. Seperated by a space, you will have the command line arguments.
+- Sometimes you'll have and Option. Options are used to modify the behavior of the command. They start with a dash and go before arguments.
+- Output is from running the command. They perform their task and are listed under the command.
+- After the command has completed running, you will start with the prompt again.
 
+**Open a Terminal** Command+space, type terminal, press enter
 
+**The Shell, Bash**
+- Shell is part of the operating system that defines how the terminal will behave. 
+- Bash is the most common shell.
+- Echo is a command used to display messages.
+[source](https://ryanstutorials.net/linuxtutorial/commandline.php)
+
+**Shortcut** Use the up and down arrows to see what was previously entered. You can also edit commands with the left and right arrow keys.
 
 
 
