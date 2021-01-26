@@ -53,6 +53,7 @@ It's important to look at your needs and what will work best for you. If you wan
 ## Basic Navigation
 - **pwd** Print Working Directory
 - **ls** List
+  + ls [option][location]
 
 
 [<== Back](README.md)
