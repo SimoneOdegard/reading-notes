@@ -50,6 +50,9 @@ It's important to look at your needs and what will work best for you. If you wan
 
 **Shortcut** Use the up and down arrows to see what was previously entered. You can also edit commands with the left and right arrow keys.
 
+## Basic Navigation
+- **pwd** Print Working Directory
+- **ls** List
 
 
 [<== Back](README.md)
