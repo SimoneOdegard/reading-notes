@@ -55,6 +55,7 @@ It's important to look at your needs and what will work best for you. If you wan
 - **pwd** Print Working Directory. Verifies where we currently are in the directory.
 - **ls** List
   + ls [option][location]
+  + **ls -a** Lists the contents of a directory including hidden files
 - **~** Home directory shortcut
 - **.** Not always required but a reference to your current directory
 - **..** A reference to the parent directory
@@ -62,12 +63,13 @@ It's important to look at your needs and what will work best for you. If you wan
 - **tab completion** an auto complete action when typing a path
 - **\** Escape characters which will nullify the special meaning of the next character
 
+
 **Keywords**
 - **path** to get a particular file or directory in the system.
   + **absolute path** a file or location in relation to the root directory. It will start with a forward slash /
   + **relative** a file or location relative to where we currently are.
 - **root** The very top of the structure
-- **Hidden files** A file begins with a . then it is hidden. It is hidden so it doesn't get in the way of everyday tasks.
+- **hidden files** A file begins with a . then it is hidden. It is hidden so it doesn't get in the way of everyday tasks.
 
 **File Extensions**
 - **file.exe** an executable file or program
