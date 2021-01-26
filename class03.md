@@ -22,15 +22,22 @@ Git is a DVCS which stores mirrored repos in the form of snapshots. When you sav
 
 ## Set up a Git Repository
 - **Importing** Type the following steps into Terminal to import [(Source)](https://blog.udemy.com/git-tutorial-a-comprehensive-guide/)
-  + cd test *use this to switch directories*
+  + cd directory *use this to switch directories*
   + git init
   + git add -.c
   + git add LICENSE
   + git commit -m "any message here"
 - **Cloning** This is how to clone the file from GitHub onto local
   + git clone https://github.com/link
-  + cd ___
+  + ls *to see where you are file wise*
+  + cd foldername
   + code .
+- **ACP** This is how to sync your repos
+  + git add filename.md
+  + git status
+  + git commit -m "type your changes here"
+  + git status
+  + git push origin main
 
 ## Workflow
 ### The local Git repository has 3 components: [(Source)](https://blog.udemy.com/git-tutorial-a-comprehensive-guide/)
@@ -51,6 +58,5 @@ Teams typically use this to push and pull information and data from. It can let 
 - **Committing a File** This is where you create your snapshot and add your notes about what changes you made.
 - **Pushing Changes** When you push your repository this is how you get what is from your local computer, onto your GitHub repo. This is the sync.
 - **git stash/git stash apply** This temporarily removes changes so you have a clean working directory. The latter brings the hidden changes back
-
 
 [<== Back](https://simoneodegard.github.io/reading-notes/)
