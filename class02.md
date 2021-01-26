@@ -1,7 +1,7 @@
 ## Choosing a Text Editor
 
 ### What makes a good text editor?
-Everyone seems to use something different. That is because the best editor is the one that you enjoy using the most. 
+Everyone seems to use something different. That is because the best editor is the one that you enjoy using the most.
 
 ### What is a text editor?
 A text editor is a piece of software that let's you write text. You can change how the text is managed and even create a website.
@@ -15,7 +15,7 @@ A text editor is a piece of software that let's you write text. You can change h
 [source](https://codefellows.github.io/code-102-guide/curriculum/class-02/Choosing-A-Text-Editor--The-Older-Coder.pdf)
 
 ### Using Software That Comes With Your Computer
-Computers come with a text editor already on them. However, these editors don't have as many features. They are the bare minimum and very simple. When using a default text editor, remember to code in plain text. You will also want to stay organized by creating a folder specifically for your website. Don't forget to name your files with the correct extension. This is very important. Your HTML file should be called "index.html".
+Computers come with a text editor already on them. However, these editors don't have as many features. They are the bare minimum and very simple. When using a default text editor, remember to code in plain text. You will also want to stay organized by creating a folder specifically for your website. Don't forget to name your files with the correct extension. This is very important. For example, your HTML file should be called "index.html".
 
 ### Third-Party Options
 1. NotePad++
@@ -31,12 +31,11 @@ An IDE (Integrated Development Environment) is a suite of multiple software. IDE
 ### Overview
 It's important to look at your needs and what will work best for you. If you want to keep things simple and the barebones, maybe using the default text editor that came with your computer would be best. However, it seems like you would find that a third-party option would be better. You will have more freedom in customization, extensions, and even code completion. You should do what would make your work easier for you.
 
-
 ## The Command Line
 **user@bash: ls -l /home/ryan**
 - A command line or terminal = a text based interface to the system. [source](https://ryanstutorials.net/linuxtutorial/commandline.php)
 - Command will always be entered first. Seperated by a space, you will have the command line arguments.
-- Sometimes you'll have and Option. Options are used to modify the behavior of the command. They start with a dash and go before arguments.
+- Sometimes you'll have an Option. Options are used to modify the behavior of the command. They start with a dash and go before arguments.
 - Output is from running the command. They perform their task and are listed under the command.
 - After the command has completed running, you will start with the prompt again.
 
@@ -60,7 +59,7 @@ It's important to look at your needs and what will work best for you. If you wan
 - **.** Not always required but a reference to your current directory
 - **..** A reference to the parent directory
 - **cd** Change directory
-- **tab completion** an auto complete action when typing a path
+- **tab completion** An auto complete action when typing a path. Example, type in doc press tab and it will complete as documents/
 - **\** Escape characters which will nullify the special meaning of the next character
 
 
@@ -82,8 +81,5 @@ It's important to look at your needs and what will work best for you. If you wan
 - We can access things with spaces by doing the following
   + Quotes ex 'Holiday Photos'
   + Escape characters ex Holiday\ Photos
-
-
-
 
 [<== Back](README.md)
