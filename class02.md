@@ -50,8 +50,8 @@ It's important to look at your needs and what will work best for you. If you wan
 
 **Shortcut** Use the up and down arrows to see what was previously entered. You can also edit commands with the left and right arrow keys.
 
-## Basic Navigation
-**commands**
+## Basic Navigation and More About Files
+**Commands**
 - **pwd** Print Working Directory. Verifies where we currently are in the directory.
 - **ls** List
   + ls [option][location]
@@ -59,13 +59,29 @@ It's important to look at your needs and what will work best for you. If you wan
 - **.** Not always required but a reference to your current directory
 - **..** A reference to the parent directory
 - **cd** Change directory
+- **tab completion** an auto complete action when typing a path
+- **\** Escape characters which will nullify the special meaning of the next character
 
-**key words**
+**Keywords**
 - **path** to get a particular file or directory in the system.
   + **absolute path** a file or location in relation to the root directory. It will start with a forward slash /
   + **relative** a file or location relative to where we currently are.
 - **root** The very top of the structure
-- **tab completion** an auto complete action when typing a path
+- **Hidden files** A file begins with a . then it is hidden. It is hidden so it doesn't get in the way of everyday tasks.
+
+**File Extensions**
+- **file.exe** an executable file or program
+- **file.txt** a plain text file
+- **file.png, file.gif, file.jpg** - an image
+  + When specifiying a file or directory, it is actually a path.
+  
+**Extra Notes**
+- Everything is case sensitive
+- We can access things with spaces by doing the following
+  + Quotes ex 'Holiday Photos'
+  + Escape characters ex Holiday\ Photos
+
+
 
 
 [<== Back](README.md)
