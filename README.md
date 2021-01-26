@@ -15,7 +15,7 @@ I'm Simone Odegard. I graduated from the University of Washington in 2012 with a
 Check out my [GitHub Portfolio](https://github.com/SimoneOdegard)!
 
 # Table of Contents for Code 102
-- [Growth Mindset](class01.md)
-- [Coders Computer](class02.md)
-- [Class 3](class03.md)
+- [Read 01 Growth Mindset](class01.md)
+- [Read 02 Coders Computer](class02.md)
+- [Read 03 About Git](class03.md)
 - [Class 4](class04.md)
