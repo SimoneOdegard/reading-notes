@@ -51,9 +51,21 @@ It's important to look at your needs and what will work best for you. If you wan
 **Shortcut** Use the up and down arrows to see what was previously entered. You can also edit commands with the left and right arrow keys.
 
 ## Basic Navigation
-- **pwd** Print Working Directory
+**commands**
+- **pwd** Print Working Directory. Verifies where we currently are in the directory.
 - **ls** List
   + ls [option][location]
+- **~** Home directory shortcut
+- **.** Not always required but a reference to your current directory
+- **..** A reference to the parent directory
+- **cd** Change directory
+
+**key words**
+- **path** to get a particular file or directory in the system.
+  + **absolute path** a file or location in relation to the root directory. It will start with a forward slash /
+  + **relative** a file or location relative to where we currently are.
+- **root** The very top of the structure
+- **tab completion** an auto complete action when typing a path
 
 
 [<== Back](README.md)
