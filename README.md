@@ -7,4 +7,4 @@ Check out my [GitHub Portfolio](https://github.com/SimoneOdegard)!
 - [Read 01 Growth Mindset](class01.md)
 - [Read 02 Coders Computer](class02.md)
 - [Read 03 About Git](class03.md)
-- [Read 04 HTML & CSS](class04.md)
+- [Read 04 Structure web pages with HTML](class04.md)
