@@ -31,4 +31,4 @@ On top of all the code, there is also code for special characters. These are esc
 - **id** It can only be used once and associated with CSS. It makes it so you can change a portion of the code once without changing everything. You should see the CSS as: #id
 - **div and span** allows you to group block-level and inline elements
 
-[<== Back>](https://simoneodegard.github.io/reading-notes/)
+[<== Back](https://simoneodegard.github.io/reading-notes/)
