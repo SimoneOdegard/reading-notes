@@ -12,3 +12,4 @@ Check out my [GitHub Portfolio](https://github.com/SimoneOdegard)!
 - [Read 06a Dynamic web pages with JavaScript](class06.md)
 - [Read 06b Computer Architecture and Logic](class06b.md)
 - [Read 07 Programming with Javascript](class07.md)
+- [Read 08 Operators and Loops](class08.md)
