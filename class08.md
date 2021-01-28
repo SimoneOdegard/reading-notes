@@ -6,14 +6,12 @@ Boolean: True or False
 - === is strict equal to
 - != is not equal to. Hello != Goodbye would be true and Hello != Hello would be false.
 - !== strict not equal to.
-- > greater than
-- < less than
-- >= greater than or equal to
-- <= less than or equal to
+- < less than, opposite is greater than
+- <= less than or equal to, opposite is greater than or equal to
 
 ## 156-157
 Logical operators compare the results of more than one comparison operator. Logical expressions will be evaluated from left to right. If the first expression has enough information, then that is all the computer will need.
-- && logical and: tests more than one condition. If the expression evaluates to true, then the expression will be true. If one expression evaluates to false, then the expression will be false. 
+- (amp amp) logical and: tests more than one condition. If the expression evaluates to true, then the expression will be true. If one expression evaluates to false, then the expression will be false. 
     + True and True will be true. 
     + True and False will be false.
     + False and False will be false.
