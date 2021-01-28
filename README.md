@@ -11,3 +11,4 @@ Check out my [GitHub Portfolio](https://github.com/SimoneOdegard)!
 - [Read 05 Design web page with CSS](class05.md)
 - [Read 06a Dynamic web pages with JavaScript](class06.md)
 - [Read 06b Computer Architecture and Logic](class06b.md)
+- [Read 07 Programming with Javascript](class07.md)
