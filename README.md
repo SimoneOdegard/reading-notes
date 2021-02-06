@@ -5,6 +5,23 @@ Check out my [GitHub Portfolio](https://github.com/SimoneOdegard)!
 
 ## Table of Contents 
 
+### Code 201 Reading Notes
+- [Read 01](class-01.md)
+- [Read 02](class-02.md)
+- [Read 03](class-03.md)
+- [Read 04](class-04.md)
+- [Read 05](class-05.md)
+- [Read 06](class-06.md)
+- [Read 07](class-07.md)
+- [Read 08](class-08.md)
+- [Read 09](class-09.md)
+- [Read 10](class-10.md)
+- [Read 11](class-11.md)
+- [Read 12](class-12.md)
+- [Read 13](class-13.md)
+- [Read 14](class-14.md)
+- [Read 15](class-15.md)
+
 ### Code 102 Reading Notes
 - [Read 01 Growth Mindset](class01.md)
 - [Read 02 Coders Computer](class02.md)
@@ -16,5 +33,3 @@ Check out my [GitHub Portfolio](https://github.com/SimoneOdegard)!
 - [Read 07 Programming with Javascript](class07.md)
 - [Read 08 Operators and Loops](class08.md)
 
-### Code 201 Reading Notes
-- Coming soon!
