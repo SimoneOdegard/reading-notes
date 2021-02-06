@@ -6,7 +6,7 @@ There are 3 key languages that are used to create webpages: HTML, CSS, and JavaS
 - CSS is the presentation layer
 - JavaScript is the behavior layer. JavaScript is typically added last as it enhances the usability. To link the JavaScript, you need to have script in the HTML.
 
-#### **document**.::write(*'Good Afternoon'*);::
+#### **document**.*write(**'Good Afternoon'**);*
 - document is the object. It represents the entire webpage
 - the highlighted section is the method of the **document**. It allows new content to be written into the page where the script element sits
 - 'Good Afternoon' is the parameters. That is where you put the information so that the script works.
