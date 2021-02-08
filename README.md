@@ -7,7 +7,7 @@ Check out my [GitHub Portfolio](https://github.com/SimoneOdegard)!
 
 ### Code 201 Reading Notes
 - [Read 01 Introductory HTML and JavaScript](class-01.md)
-- [Read 02](class-02.md)
+- [Read 02 Basics of HTML, CSS & JS](class-02.md)
 - [Read 03](class-03.md)
 - [Read 04](class-04.md)
 - [Read 05](class-05.md)
