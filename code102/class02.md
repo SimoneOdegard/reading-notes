@@ -82,4 +82,4 @@ It's important to look at your needs and what will work best for you. If you wan
   + Quotes ex 'Holiday Photos'
   + Escape characters ex Holiday\ Photos
 
-[<== Back](README.md)
+[<== Back](https://simoneodegard.github.io/reading-notes/)

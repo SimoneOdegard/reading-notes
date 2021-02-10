@@ -110,4 +110,4 @@ The if statement evaluates a condition. If the condition evaluates to true, any 
 **If...Else Statements**
 The if...else statement checks a condition. If it resolves to true the first code block is executed. If the condition resolves to false the second code block is run instead. (Javascript & Jquery, Duckett, pg 162)
 
-[<== Back](README.md)
+[<== Back](https://simoneodegard.github.io/reading-notes/)

@@ -44,4 +44,4 @@ Note: Parameters and Arguments are not the same thing even though they are used 
 - **Calling the function** After you declared the function, you can execute all the statements between the curly braces with one line of code.
 - **Arguments** When you call a function that has parameters, you specify the values it should use in the parentheses that follow its name.
 
-[<== Back](README.md)
+[<== Back](https://simoneodegard.github.io/reading-notes/)

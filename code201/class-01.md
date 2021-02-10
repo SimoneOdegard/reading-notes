@@ -74,4 +74,4 @@ A web browser are programs built using objects. HTML markup creates a model of t
 - **Events** an outcome or response from an interaction
 - **Method**  represents how people interact with an object
 
-[<== Back](README.md)
+[<== Back](https://simoneodegard.github.io/reading-notes/)

@@ -44,4 +44,4 @@ The operating system is the master program that manages how software uses the ha
 
 The thing that makes computers smart is *you*!
 
-[<== Back](README.md)
+[<== Back](https://simoneodegard.github.io/reading-notes/)

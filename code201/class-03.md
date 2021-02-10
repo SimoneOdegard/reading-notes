@@ -55,4 +55,4 @@ View Javascript & Jquery, Duckett, pg 71 for coding examples.
 1. **While** When you don't know how many times you want to run your code
 1. **Do while** Similar to while loop but will always run the statements inside curly braces at least once
 
-[<== Back](README.md)
+[<== Back](https://simoneodegard.github.io/reading-notes/)

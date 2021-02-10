@@ -35,4 +35,4 @@ Loops check a condition. If it returns true, a code block will continue running 
 ## 176
 A typical time to use the while loop is when you do not know how many times you want to run the loop. It should keep looping until a condition is met.
 
-[<== Back](README.md)
+[<== Back](https://simoneodegard.github.io/reading-notes/)

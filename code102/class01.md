@@ -75,6 +75,4 @@ Any number that refers to an Issue or Pull Request will be automatically convert
 ### Emojis
 Emojis are also available on GitHub! Here is a link to every image that GitHub supports.[Emoji List](https://github.com/ikatyang/emoji-cheat-sheet/blob/master/README.md)
 
-[<== Back](README.md)
-
-
+[<== Back](https://simoneodegard.github.io/reading-notes/)

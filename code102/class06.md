@@ -22,4 +22,4 @@ A *statement* is an individual instruction that the computer follows step by ste
 Javascript uses Booleans. This means it distinguishes between numbers (numeric date), strings (letters and other characters), and true or false statements. 
 
 
-[<== Back](README.md)
+[<== Back](https://simoneodegard.github.io/reading-notes/)
