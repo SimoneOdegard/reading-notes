@@ -65,3 +65,5 @@ Why pair programming?
 1. **Social skills** Pair programming can improve interpersonal skills and communication.
 1. **Job interview readiness** Pair programming is a common step in many interview processes. This will let companies have a better feel for you as a developer.
 1. **Work environment readiness** Companies utilize pair programming and are prepared to train new hires. However, since it is something we do at Code Fellows, it will be one less thing to worry about.
+
+[<== Back](https://simoneodegard.github.io/reading-notes/)
