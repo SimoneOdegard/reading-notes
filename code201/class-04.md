@@ -38,7 +38,16 @@ Because of different screen sizes, designers often create pages to be 960-1000 p
 - **Layout grids** The page is designed according to a 960 pixel grid. This helps designers position items on a page.
 
 ## JS Ch 3 (86-99)
-A function lets you group a series of statements together to perform a specific task. 
+A function lets you group a series of statements together to perform a specific task. When you ask a function to perform a task at a later time, you should give your function a name. When you ask your function to perform a task, that is calling the function.
+
+### Keywords:
+- **Parameters** Pieces of information pass to a function
+- **Declaring a function** When you give a function a name, then write the statements needed to run inside the curly braces
+- **Calling a function** When you have a declared function and you ask your function to perform a task.
+- **Function declaration** creates a function that you can call later.
+- **Function expression** If you put a function where the interpreter would expect to see an expression, then it is treated as an expression. (Javascript & Jquery, Duckett, 96)
+- **Local/function-level** When a variable is created inside a function using the var/let keywords. Note: it can only be used in that function.
+- **Global/global scope** When a variable is created outside a function. It can be used anywhere within the script.
 
 ## Article - 6 Reasons for Pair Programming
 What is pair programming? It is when two devs share a workstation to code together. This is a "two heads are better than one" mentality. There are two roles in pair programming, the Drive and the Navigator. The Driver is the one who types and mainly codes. The Navigator guides the Driver with words as they think about the big picture. The Navigator might use their computer screen as a way to look up questions but not to write code.
