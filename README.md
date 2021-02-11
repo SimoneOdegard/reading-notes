@@ -9,7 +9,7 @@ Check out my [GitHub Portfolio](https://github.com/SimoneOdegard)!
 - [Read 01 Introductory HTML and JavaScript](code201/class-01.md)
 - [Read 02 Basics of HTML, CSS & JS](code201/class-02.md)
 - [Read 03 HTML Lists, Control Flow with JS, and the CSS Box Model](code201/class-03.md)
-- [Read 04](code201/class-04.md)
+- [Read 04 HTML Links, JS Functions, and Intro to CSS Layout](code201/class-04.md)
 - [Read 05](code201/class-05.md)
 - [Read 06](code201/class-06.md)
 - [Read 07](code201/class-07.md)
