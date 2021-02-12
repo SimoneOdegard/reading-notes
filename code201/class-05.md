@@ -32,6 +32,66 @@ When desiging your webpage, you want to think about contrast and opacity. It wil
 CSS3 has a new way to specify colors (HSL and HSLA) using hue, saturation, and lightness. There is also the alpha which is expressed as a number between 0 and 1.0. Old browser do not recognize HSL and HSLA.
 
 ## HTML Ch 12 (264-299)
+There are 3 kinds of main typeface fonts. Serif has extra little details. This is a more traditional font for print. Sans-serif have a cleaner design. It's great for lower resolution as it's more clear to read. Monospace is a fixed-width font where it's the same width. This is more common for code. An few extra fonts are cursive and fantasy.
 
+**Weight** ```font-weight```
+- light
+- medium
+- bold
+- black
+
+**Style** ```font-style```
+- Normal
+- *Italic*
+- Oblique
+
+**Stretch**
+- Condensed
+- Regular
+- Extended
+
+**Alignment**
+- ```text-align```
+    - left
+    - right
+    - center
+    - justify
+- ```vertical-align```
+    - baseline
+    - sub
+    - super
+    - top
+    - text-top
+    - middle
+    - bottom
+    - text-bottom
+
+**There are multiple ways to use fonts** (HTML & CSS, Duckett pg 271, 272.)
+1. **font-family** CSS used to specify the typeface
+1. **font-face** CSS specifies where a font can be downloaded
+    - ```font-family: 'ChunkFiveRegular':```
+    - ```src: url('fonts/chunkfive.eot');```
+1. **service-based font-face** Commercial services give users access to a wide range of fonts using ```@font-face```.
+1. **images** You can create graphics that have text
+1. **SIFR** the font is embedded into a Flash movie, and JavaScript replaces specified HTML text with a flash version of it.
+1. **CUFON** uses JavaScript to create either an SVG or VML version of the text.
+
+- **uppercase and lowercase** ```text-transform```
+    - uppercase
+    - lowercase
+    - capitalize
+- **underline and strike**```text-decoration```
+    - none
+    - underline
+    - overline
+    - line-through
+    - blink
+- **leading** ```line-height```
+- **letter and word spacing** ```letter-spacing && word-spacing```
+- **indenting text** ```text-indent```
+- **drop shadow** ```text-shadow```
+- **first letter or line** ```:first-letter || :first-line```
+- **styling links** ```:link && :visited```
+- **responding to users** ```:hover && :active && :focus```
 
 [<== Back](https://simoneodegard.github.io/reading-notes/)
