@@ -82,6 +82,5 @@ An attacker could gain access to your users' accounts. To defend against XSS, yo
 - **Attribute nodes**  The opening tags of HTML carry attributes, in a DOM tree, they are represented by attribute nodes.
 - **Text nodes** After accessing the element node, you can reach the text within that element which is called a text node.
 - **DOM queries** Methods that find elements in the DOM tree
-- 
 
 [<== Back](https://simoneodegard.github.io/reading-notes/)
