@@ -2,10 +2,10 @@
 
 ## HTMl Ch 6 (126-145)
 Table structures: 
-```<table>``` Used to create a table
-```<tr>``` Indicates the start of each row
-```<td>``` How each cell of a table is represented
-```<th>``` Used like td but represents the heading for a column or a row
+- ```<table>``` Used to create a table
+- ```<tr>``` Indicates the start of each row
+- ```<td>``` How each cell of a table is represented
+- ```<th>``` Used like td but represents the heading for a column or a row
 
 When you want a cell to expand to more than one column, you would create a spanning column using ```colspan```. Spanning rows are similar only it's for when you want your cell to span more than one row. You would use the ```rowspan``` attribute.
 
