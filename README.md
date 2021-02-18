@@ -14,7 +14,7 @@ Check out my [GitHub Portfolio](https://github.com/SimoneOdegard)!
 - [Read 06 Problem Domain, Objects, and the DOM](code201/class-06.md)
 - [Read 07 Object-Oriented Programming, HTML Tables](code201/class-07.md)
 - [Read 08 CSS Layout](code201/class-08.md)
-- [Read 09](code201/class-09.md)
+- [Read 09 Forms and JS Events](code201/class-09.md)
 - [Read 10](code201/class-10.md)
 - [Read 11](code201/class-11.md)
 - [Read 12](code201/class-12.md)
