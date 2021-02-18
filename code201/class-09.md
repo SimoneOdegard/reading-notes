@@ -62,6 +62,50 @@ There are many bullet point styles as well as the option to use images for bulle
 - Gaps between cells: ```border-spacing``` and ```border-collapse```gives you control on what the distance is between cells.
 
 ## JS Ch 6 (243-292)
+There are several different event types that can trigger functions in JavaScript code. This is a way of the browser knowing something is happening.
+- UI events: when user interacts with browser's interface
+- Keyboard events: when user interacts with keyboard
+- Mouse events: when user interacts with mouse
+- Focus events: when an element gains or loses focus
+- Form events: when a user interacts with a form element
+- Mutation events: when the DOM structure is changed by a script
+
+**Triggering code**: or event handling.
+1. Select element: the element that users are interacting with
+1. Specify event (binding an event to a DOM node): what event on the selected nodes will trigger a response
+1. Call code: state what code will run when the event is triggered
+
+**Bind an event to an element**: Which event you are waiting to happen, and which element it will happen to.
+1. HTML event handlers (considered bad practice)
+1. Traditional DOM event handlers
+    - ```element.onevent = functionName;``` element is the element, onevent is the event, functionName is the code. You can only attach one function to each event handler.
+1. Dom level 2 event listeners
+    - ```element.addEventListener('event'), functionName [, Boolean]);``` element is the element, event is the event (event to bind nodes), functionName is the cod, [, Boolean] is the event flow (Indicates something called capture, and is usually set to false). Everything after the . is the method.
+
+**Event Flow**: HTML elements nest in other elements, ex, when you click on a link, you are also clicking on its parent element. Event bubbling starts at the most specific node and flows out to the least specific node. This is the default event flow. Event capturing is the opposite as it starts at the least specific node and flows inwards to the most specific one. Note, this is not supported in IE8 and earlier. Flow matters when your code has event handlers on an element and one of its ancestor or descendant element. (Javascript & Jquerey, Duckett, pg 261).
+
+**Event Delegation**: This lets you monitor events that happen to all the children of an element.
+- Works with new elements
+- Solves limitations with *this* keyword
+- Simiplifies your code
+
+**Different types of events**:
+- W3C Dom events: managed by the W3C. Most events are part of the DOM events
+- HTML5 events: still being devleoped. Details events that browsers are expected to suport, specifically used with HTMl
+- BOM (Brower Object Model) events: several of these events deal with touchscreen devices
+
+**Where events occur**: Event object can tell you where hte cursor was positioned when an event was triggered (Javascript & Jquerey, Duckett, pg 278).
+- Screen
+- Page
+- Client
+
+### Keywords
+- **Fire or Are Raised**: When an event occurs. User clicking a link would fire in the browser.
+- **Trigger Scripts**: After a user fires an event, it could trigger a script.
+- **Event Object**: When an event occurs, the event object tells you information about the event and the element it happened to.
+- **Load**: Used to trigger scripts that access the contentss of a page.
+- **Focus and blur**: When elements gain focus, the focus event fires for that DOM nodes. When an element loses focus, the blur event fires for the DOM node.
+
 
 
 [<== Back](https://simoneodegard.github.io/reading-notes/)
