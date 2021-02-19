@@ -106,6 +106,4 @@ There are several different event types that can trigger functions in JavaScript
 - **Load**: Used to trigger scripts that access the contentss of a page.
 - **Focus and blur**: When elements gain focus, the focus event fires for that DOM nodes. When an element loses focus, the blur event fires for the DOM node.
 
-
-
 [<== Back](https://simoneodegard.github.io/reading-notes/)
