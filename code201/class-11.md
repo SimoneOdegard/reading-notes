@@ -35,4 +35,7 @@ File transfer protocol (FTP) and third party tools are great for transferring yo
 ## HTML Ch 9 (201-206)
 When you are creating an animation or a media player in Flash, those files are Flash movies. This is something that was made popular in the late 1990s. Since 2005, few sites started using Flash or Flash elements. A lot of present day electronics do not support Flash.
 
+## Video and audio APIs
+```<video>``` and ```<audio>``` elements allow us to embed video and audio into web pages. With code, you can add all the features that are needed to play, stop, rewind, fastforward a video. To wire up all the buttons you need to add additional code to JavaScript.
+
 [<== Back](https://simoneodegard.github.io/reading-notes/)
