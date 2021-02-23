@@ -17,7 +17,7 @@ Check out my [GitHub Portfolio](https://github.com/SimoneOdegard)!
 - [Read 09 Forms and JS Events](code201/class-09.md)
 - [Read 10 Debugging](code201/class-10.md)
 - [Read 11 Audio, Video, Images](code201/class-11.md)
-- [Read 12](code201/class-12.md)
+- [Read 12 Chart.js, Canvas](code201/class-12.md)
 - [Read 13](code201/class-13.md)
 - [Read 14](code201/class-14.md)
 - [Read 15](code201/class-15.md)
