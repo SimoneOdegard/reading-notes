@@ -18,7 +18,7 @@ Check out my [GitHub Portfolio](https://github.com/SimoneOdegard)!
 - [Read 10 Debugging](code201/class-10.md)
 - [Read 11 Audio, Video, Images](code201/class-11.md)
 - [Read 12 Chart.js, Canvas](code201/class-12.md)
-- [Read 13](code201/class-13.md)
+- [Read 13 Local Storage](code201/class-13.md)
 - [Read 14](code201/class-14.md)
 - [Read 15](code201/class-15.md)
 
@@ -26,7 +26,6 @@ Check out my [GitHub Portfolio](https://github.com/SimoneOdegard)!
 - [Read 01 Growth Mindset](code102/class01.md)
 - [Read 02 Coders Computer](code102/class02.md)
 - [Read 03 About Git](code102/class03.md)
-- [Read 04 Structure web pages with HTML](code102/class04.md)
 - [Read 05 Design web page with CSS](code102/class05.md)
 - [Read 06a Dynamic web pages with JavaScript](code102/class06.md)
 - [Read 06b Computer Architecture and Logic](code102/class06b.md)
