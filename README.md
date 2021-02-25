@@ -20,7 +20,7 @@ Check out my [GitHub Portfolio](https://github.com/SimoneOdegard)!
 - [Read 12 Chart.js, Canvas](code201/class-12.md)
 - [Read 13 Local Storage](code201/class-13.md)
 - [Read 14a CSS Transforms, Transitions, and Animations](code201/class-14a.md)
-- [Read 14 What Google Learned About Teams](code201/class-14b.md)
+- [Read 14b What Google Learned About Teams](code201/class-14b.md)
 - [Read 15](code201/class-15.md)
 
 ### Code 102 Reading Notes
