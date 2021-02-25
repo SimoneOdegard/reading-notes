@@ -19,7 +19,8 @@ Check out my [GitHub Portfolio](https://github.com/SimoneOdegard)!
 - [Read 11 Audio, Video, Images](code201/class-11.md)
 - [Read 12 Chart.js, Canvas](code201/class-12.md)
 - [Read 13 Local Storage](code201/class-13.md)
-- [Read 14](code201/class-14.md)
+- [Read 14a CSS Transforms, Transitions, and Animations](code201/class-14a.md)
+- [Read 14 What Google Learned About Teams](code201/class-14b.md)
 - [Read 15](code201/class-15.md)
 
 ### Code 102 Reading Notes
