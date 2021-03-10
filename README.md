@@ -1,11 +1,24 @@
+# Reading Notes
+**This is a webpage used for my reading notes.**
+
 ## About me
 **Simone Odegard** I graduated from the University of Washington with a degree in Interdisciplinary Arts and Sciences. I have been teaching and coaching competitive dance for 6 years. Previous to that, I worked in sales and service as well as apartment management. I'm looking for new beginnings in the tech industry!
 
 Check out my [GitHub Portfolio](https://github.com/SimoneOdegard)!
 
-## Table of Contents 
+## Table of Contents
 
-### Code 201 Reading Notes
+### Code 102 Intro to Software Devleopment
+- [Read 01 Growth Mindset](code102/class01.md)
+- [Read 02 Coders Computer](code102/class02.md)
+- [Read 03 About Git](code102/class03.md)
+- [Read 05 Design web page with CSS](code102/class05.md)
+- [Read 06a Dynamic web pages with JavaScript](code102/class06.md)
+- [Read 06b Computer Architecture and Logic](code102/class06b.md)
+- [Read 07 Programming with Javascript](code102/class07.md)
+- [Read 08 Operators and Loops](code102/class08.md)
+
+### Code 201 - Foundations of Software Development
 - [Read 01 Introductory HTML and JavaScript](code201/class-01.md)
 - [Read 02 Basics of HTML, CSS & JS](code201/class-02.md)
 - [Read 03 HTML Lists, Control Flow with JS, and the CSS Box Model](code201/class-03.md)
@@ -23,12 +36,16 @@ Check out my [GitHub Portfolio](https://github.com/SimoneOdegard)!
 - [Read 14b What Google Learned About Teams](code201/class-14b.md)
 - [Read 15](code201/class-15.md)
 
-### Code 102 Reading Notes
-- [Read 01 Growth Mindset](code102/class01.md)
-- [Read 02 Coders Computer](code102/class02.md)
-- [Read 03 About Git](code102/class03.md)
-- [Read 05 Design web page with CSS](code102/class05.md)
-- [Read 06a Dynamic web pages with JavaScript](code102/class06.md)
-- [Read 06b Computer Architecture and Logic](code102/class06b.md)
-- [Read 07 Programming with Javascript](code102/class07.md)
-- [Read 08 Operators and Loops](code102/class08.md)
+### Code 301 - Intermediate Software Development
+- Read 01
+- Read 02
+- Read 03
+- Read 04
+- Read 05
+
+### Code 401 - Advanced Software Development
+- Read 01
+- Read 02
+- Read 03
+- Read 04
+- Read 05
