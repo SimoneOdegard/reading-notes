@@ -37,7 +37,7 @@ Check out my [GitHub Portfolio](https://github.com/SimoneOdegard)!
 - [Read 15](code201/class-15.md)
 
 ### Code 301 - Intermediate Software Development
-- Read 01
+- [Read 01](code301/read01.md)
 - Read 02
 - Read 03
 - Read 04
