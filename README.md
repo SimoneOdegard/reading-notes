@@ -41,7 +41,7 @@ Check out my [GitHub Portfolio](https://github.com/SimoneOdegard)!
 - [Read 03 - Passing Functions as Props](code301/read03.md)
 - [Read 04 - React and Forms](code301/read04.md)
 - [Read 05 - Thinking in React](code301/read05.md)
-- [Read 06](code301/read06.md)
+- [Read 06 - NODE.JS](code301/read06.md)
 - [Read 07](code301/read07.md)
 - [Read 08](code301/read08.md)
 - [Read 09](code301/read09.md)
