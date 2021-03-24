@@ -3,7 +3,7 @@
 ## What google learned about teams
 For notes on Google's aristole project, click [here](https://simoneodegard.github.io/reading-notes/code201/class-14b.html).
 
-# How I explained REST to my brother
+## How I explained REST to my brother
 Roy Fielding helped write the first web servers. These servers sent documents across the internet. He also did reasearch on why the web works the way it does.
 
 HTTP is the first part that tells the browser what protocol to use. It is the foundation of the web and describes the location of something anywhere in the world.
