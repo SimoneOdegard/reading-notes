@@ -45,7 +45,7 @@ Check out my [GitHub Portfolio](https://github.com/SimoneOdegard)!
 - [Read 07 - REST](code301/read07.md)
 - [Read 08 - APIs](code301/read08.md)
 - [Read 09 - Functional Programming](code301/read09.md)
-- [Read 10](code301/read10.md)
+- [Read 10 - In memory stage](code301/read10.md)
 - [Read 11](code301/read11.md)
 - [Read 12](code301/read12.md)
 - [Read 13](code301/read13.md)
