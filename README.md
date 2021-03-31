@@ -49,8 +49,7 @@ Check out my [GitHub Portfolio](https://github.com/SimoneOdegard)!
 - [Read 11 - Authentication](code301/read11.md)
 - [Read 12 - Mongo and Mongoose](code301/read12.md)
 - [Read 13 - CRUD](code301/read13.md)
-- [Read 14](code301/read14.md)
-- [Read 15](code301/read15.md)
+- [Read 15 - Diversity & Inclusion in the Tech Industry](code301/read15.md)
 
 ### Code 401 - Advanced Software Development
 - Read 01
