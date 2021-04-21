@@ -54,7 +54,7 @@ Check out my [GitHub Portfolio](https://github.com/SimoneOdegard)!
 ### Code 401 - Advanced Software Development
 - [Read 00 - Prework](code401/read00.md)
 - [Read 01 - Node Ecosystem, TDD, CI/CD](code401/read01.md)
-- [Read 02](code401/read02.md)
+- [Read 02 - Express](code401/read02.md)
 - [Read 03](code401/read03.md)
 - [Read 04](code401/read04.md)
 - [Read 05](code401/read05.md)
