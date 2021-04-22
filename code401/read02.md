@@ -67,3 +67,5 @@
 - [What is NPM](https://docs.npmjs.com/about-npm)
 - [What is TDD](https://www.agilealliance.org/glossary/tdd/#q=~(infinite~false~filters~(postType~(~'page~'post~'aa_book~'aa_event_session~'aa_experience_report~'aa_glossary~'aa_research_paper~'aa_video)~tags~(~'tdd))~searchTerm~'~sort~false~sortDirection~'asc~page~1))
 - [CI/CD](https://www.youtube.com/watch?v=xSv_m3KhUO8)
+
+[<== Back](https://simoneodegard.github.io/reading-notes/)
