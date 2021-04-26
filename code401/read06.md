@@ -6,7 +6,7 @@
 
 **Explain how the Singleton pattern can be used with Node modules, specifically with classes** If you know you want to have one instance, then this pattern is for you. One is dealing with database connections. It could also be a resource manager or a global lookup for values. [logrocket](https://blog.logrocket.com/design-patterns-in-node-js/) and [digitalocean](https://www.digitalocean.com/community/tutorials/js-js-singletons)
 
-**If you were tasked with building a middleware system like Express uses, what approach might you take to construct/operate it?** I need to determine what kind of middleware is need and what I need to build. I also know I need to have three arguments, request, response, and next lifecycle methods. [medium](https://medium.com/@selvaganesh93/how-node-js-middleware-works-d8e02a936113)s
+**If you were tasked with building a middleware system like Express uses, what approach might you take to construct/operate it?** I need to determine what kind of middleware is need and what I need to build. I also know I need to have three arguments, request, response, and next lifecycle methods. [medium](https://medium.com/@selvaganesh93/how-node-js-middleware-works-d8e02a936113)
 
 ## Term
 
@@ -15,10 +15,10 @@
 - **Singleton Pattern** A singleton is a pattern restricting instantiation to one instance. You would use this when you need only one object to coordinate actions across the system. [wikipedia](https://en.wikipedia.org/wiki/Singleton_pattern)
 - **CRUD -> REST Method Matches**
   - REST | CRUD
-  - GET -> read
-  - PUT -> update
-  - POST -> create
-  - DELETE -> delete
+  - GET | read
+  - PUT | update
+  - POST | create
+  - DELETE | delete
 - **Mock Testing** "An approach to unit testing that lets you make assertions about how the code under test is interacting with other system modules. The dependencies are replaced with objects that simulate the behavior of the real ones." [devopedia](https://devopedia.org/mock-testing#:~:text=Mock%20testing%20is%20an%20approach,behaviour%20of%20the%20real%20ones.)
 
 ## Preview
@@ -37,9 +37,9 @@
 
 ## Readings
 
-[Securing Passwords](https://thehackernews.com/2014/04/securing-passwords-with-bcrypt-hashing.html)
-[Basic Auth](https://en.wikipedia.org/wiki/Basic_access_authentication)
-[OWASP auth cheatsheet](https://cheatsheetseries.owasp.org/cheatsheets/Authentication_Cheat_Sheet.html)
-[bcryptdocs](https://www.npmjs.com/package/bcrypt)
+- [Securing Passwords](https://thehackernews.com/2014/04/securing-passwords-with-bcrypt-hashing.html)
+- [Basic Auth](https://en.wikipedia.org/wiki/Basic_access_authentication)
+- [OWASP auth cheatsheet](https://cheatsheetseries.owasp.org/cheatsheets/Authentication_Cheat_Sheet.html)
+- [bcryptdocs](https://www.npmjs.com/package/bcrypt)
 
 [<== Back](https://simoneodegard.github.io/reading-notes/)
