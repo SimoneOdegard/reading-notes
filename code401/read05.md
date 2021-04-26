@@ -29,5 +29,4 @@ You can grow a Linked List. They have non-contiguous memory which make them uniq
 
 They are super helpful if you don't know the size of the list and want to add or remove things quickly. You don't have to worry about random access.
 
-
 [<== Back](https://simoneodegard.github.io/reading-notes/)
