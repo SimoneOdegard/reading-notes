@@ -62,7 +62,7 @@ Check out my [GitHub Portfolio](https://github.com/SimoneOdegard)!
 - [Read 07 - Bearer Authorization](code401/read07.md)
 - [Read 08 - Access Control (ACL)](code401/read08.md)
 - [Read 09](code401/read09.md)
-- [Read 10](code401/read10.md)
+- [Read 10 - Implementation: Stacks and Queues](code401/read10.md)
 - [Read 11](code401/read11.md)
 - [Read 12](code401/read12.md)
 - [Read 13](code401/read13.md)
