@@ -69,7 +69,7 @@ Check out my [GitHub Portfolio](https://github.com/SimoneOdegard)!
 - [Read 15 - Trees](code401/read15.md)
 - [Read 16 - Cloud Servers](code401/read16.md)
 - [Read 17 - AWS: S3 and Lambda](code401/read17.md)
-- [Read 18](code401/read18.md)
+- [Read 18 - AWS: API, Dynamo and Lambda](code401/read18.md)
 - [Read 19](code401/read19.md)
 - [Read 20](code401/read20.md)
 - [Read 21](code401/read21.md)
