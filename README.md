@@ -76,3 +76,8 @@ Check out my [GitHub Portfolio](https://github.com/SimoneOdegard)!
 - [Read 28 - Component Composition](code401/read28.md)
 - [Read 29 - Routing](code401/read29.md)
 - [Read 30 - Hash Tables](code401/read30.md)
+- [Read 31 - Hooks API](code401/read31.md)
+- [Read 32 - Custom Hooks](code401/read32.md)
+- [Read 33 - Context API](code401/read33.md)
+- [Read 34 - Login and Auth](code401/read34.md)
+- [Read 35 - ](code401/read35.md)

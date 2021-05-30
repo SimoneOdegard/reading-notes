@@ -1,4 +1,4 @@
-# Read 09
+# Read 
 
 ## Preview
 
@@ -15,6 +15,7 @@
 **What are you most excited about trying to implement or see how it works?**
 
 ## Readings
+
 - []()
 
 [<== Back](https://simoneodegard.github.io/reading-notes/)
