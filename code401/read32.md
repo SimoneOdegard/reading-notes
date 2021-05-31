@@ -1,7 +1,5 @@
 # Read 32
 
-## Preview
-
 ## Review, Research, and Discussion
 
 **What does a component’s lifecycle refer to?** Components are created (mounted on the DOM), grow by updating, and then die (unmount on DOM). This is reffered to as a component lifecycle. [resource](https://www.freecodecamp.org/news/how-to-understand-a-components-lifecycle-methods-in-reactjs-e1a609840630/#:~:text=We%20are%20born%2C%20grow%2C%20and,to%20as%20a%20component%20lifecycle.)
@@ -47,6 +45,8 @@ To my understanding, you want to avoid your useEffect from looping because it wi
 - **effect hook** What does useEffect do? By using this Hook, you tell React that your component needs to do something after render. React will remember the function you passed (we'll refer to it as our “effect”), and call it later after performing the DOM updates. [resource](https://reactjs.org/docs/hooks-effect.html#:~:text=What%20does%20useEffect%20do%3F,after%20performing%20the%20DOM%20updates.)
 - **reducer hook** useReducer is one of a handful of React hooks that shipped in React 16.7. 0. It accepts a reducer function with the application initial state, returns the current application state, then dispatches a function. [resource](https://css-tricks.com/getting-to-know-the-usereducer-react-hook/#:~:text=useReducer%20is%20one%20of%20a,state%2C%20then%20dispatches%20a%20function.)
 
+## Preview
+
 **Which 3 things had you heard about previously and now have better clarity on?**
 1. component lifecycles
 1. functional components vs class components
@@ -70,7 +70,7 @@ Authoring
 
 Hooks Lists/Collections
 
-- [use hooks](https://usehooks.com/
+- [use hooks](https://usehooks.com/)
 - [hooks list](https://github.com/rehooks/awesome-react-hooks)
 - [10 essential react hooks](https://blog.bitsrc.io/10-react-custom-hooks-you-should-have-in-your-toolbox-aa27d3f5564d)
 

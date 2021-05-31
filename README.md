@@ -80,4 +80,4 @@ Check out my [GitHub Portfolio](https://github.com/SimoneOdegard)!
 - [Read 32 - Custom Hooks](code401/read32.md)
 - [Read 33 - Context API](code401/read33.md)
 - [Read 34 - Login and Auth](code401/read34.md)
-- [Read 35 - ](code401/read35.md)
+- [Read 35 - Graphs](code401/read35.md)
