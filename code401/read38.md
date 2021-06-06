@@ -16,12 +16,12 @@
 ## Preview
 
 **Which 3 things had you heard about previously and now have better clarity on?**
-1. I feel like a lot of what we're going over for this reading is brand new.
+1. Reducers. However, I feel like a lot of what we're going over for this reading is brand new.
 
 **Which 3 things are you hoping to learn more about in the upcoming lecture/demo?**
-1. Reducers
+1. async actions
 1. Store
-1. combineReducers
+1. thunk
 
 **What are you most excited about trying to implement or see how it works?** I'm curious about using reducers and understanding more about how they work.
 
