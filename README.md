@@ -85,3 +85,5 @@ Check out my [GitHub Portfolio](https://github.com/SimoneOdegard)!
 - [Read 37 - Combined Reducers](code401/read37.md)
 - [Read 38 - Asynchronous Actions](code401/read38.md)
 - [Read 39 - Redux - Additional Topics](code401/read39.md)
+- [Read 40 - React Native](code401/read40.md)
+- [Read 41 - Ethics in Tech](code401/read41.md)
